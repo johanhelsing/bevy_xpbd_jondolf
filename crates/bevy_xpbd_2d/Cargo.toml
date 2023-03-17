@@ -10,7 +10,6 @@ debug-render-aabbs = [ "bevy_prototype_debug_lines" ]
 
 [lib]
 name = "bevy_xpbd_2d"
-path = "../../src/lib.rs"
 required-features = [ "2d" ]
 
 [dependencies]
